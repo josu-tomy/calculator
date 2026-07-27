@@ -2,6 +2,10 @@
 
 A responsive calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**.
 
+## Preview
+
+![Calculator Screenshot](assets/screenshot.png)
+
 ## ✨ Features
 
 - ➕ Addition

@@ -2,6 +2,10 @@
 
 A responsive calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**.
 
+## 🚀 Live Demo
+
+👉 https://josu-tomy.github.io/calculator/
+
 ## Preview
 
 ![Calculator Screenshot](assets/screenshot.png)
